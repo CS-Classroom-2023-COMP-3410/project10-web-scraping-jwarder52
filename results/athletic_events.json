@@ -1,0 +1,1929 @@
+{
+    "events": [
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Stanford",
+            "date": "Nov 4 (Mon)\n                                        \n                                            2 p.m. MT\n                                        \n                                            ACC Network Xtra\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Western Colorado",
+            "date": "Nov 8 (Fri)\n                                        \n                                            1 p.m. MT\n                                        \n                                            Summit League Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Colorado State",
+            "date": "Nov 12 (Tue)\n                                        \n                                            7 p.m. MT\n                                        \n                                            Mountain West Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Colorado Christian",
+            "date": "Nov 14 (Thu)\n                                        \n                                            7 p.m. MT\n                                        \n                                            Summit League Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Montana State",
+            "date": "Nov 17 (Sun)\n                                        \n                                            2 p.m. MT\n                                        \n                                            Altitude 2/Summit League Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Montana",
+            "date": "Nov 24 (Sun)\n                                        \n                                            5 p.m. MT\n                                        \n                                            ESPN+\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Cal State Northridge",
+            "date": "Nov 25 (Mon)\n                                        \n                                            2 p.m. MT\n                                        \n                                            ESPN+\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Utah Tech",
+            "date": "Nov 26 (Tue)\n                                        \n                                            2 p.m. MT\n                                        \n                                            ESPN+\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Portland",
+            "date": "Dec 1 (Sun)\n                                        \n                                            3 p.m. MT\n                                        \n                                            ESPN+\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Sacramento State",
+            "date": "Dec 4 (Wed)\n                                        \n                                            7 p.m. MT\n                                        \n                                            Altitude/Summit League Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Portland State",
+            "date": "Dec 7 (Sat)\n                                        \n                                            3 p.m. MT\n                                        \n                                            ESPN+\n                                        \n                                            ESPN Denver 1600"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "UCCS",
+            "date": "Dec 10 (Tue)\n                                        \n                                            7 p.m. MT\n                                        \n                                            Summit League Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Cal State Fullerton",
+            "date": "Dec 15 (Sun)\n                                        \n                                            3 p.m. MT\n                                        \n                                            ESPN+\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Cal Poly",
+            "date": "Dec 17 (Tue)\n                                        \n                                            8 p.m. MT\n                                        \n                                            ESPN+\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Northern Colorado",
+            "date": "Dec 21 (Sat)\n                                        \n                                            3 p.m. MT\n                                        \n                                            Altitude/Summit League Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "South Dakota State",
+            "date": "Jan 2 (Thu)\n                                        \n                                            7 p.m. MT\n                                        \n                                            CBS Sports Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "South Dakota",
+            "date": "Jan 4 (Sat)\n                                        \n                                            6 p.m. MT\n                                        \n                                            Summit League Network\n                                        \n                                            ESPN Denver 1600"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "North Dakota",
+            "date": "Jan 9 (Thu)\n                                        \n                                            7 p.m. MT\n                                        \n                                            Altitude 2/Summit League Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "North Dakota State",
+            "date": "Jan 11 (Sat)\n                                        \n                                            1 p.m. MT\n                                        \n                                            Summit League Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Omaha",
+            "date": "Jan 15 (Wed)\n                                        \n                                            7 p.m. MT\n                                        \n                                            Altitude 2/Summit League Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "St. Thomas",
+            "date": "Jan 18 (Sat)\n                                        \n                                            6 p.m. MT\n                                        \n                                            Summit League Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Oral Roberts",
+            "date": "Jan 23 (Thu)\n                                        \n                                            6 p.m. MT\n                                        \n                                            Summit League Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Kansas City",
+            "date": "Jan 30 (Thu)\n                                        \n                                            7 p.m. MT\n                                        \n                                            Altitude/Summit League Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Omaha",
+            "date": "Feb 1 (Sat)\n                                        \n                                            6 p.m. MT\n                                        \n                                            Summit League Network\n                                        \n                                            ESPN Denver 1600"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "South Dakota",
+            "date": "Feb 6 (Thu)\n                                        \n                                            7 p.m. MT\n                                        \n                                            Summit League Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "St. Thomas",
+            "date": "Feb 8 (Sat)\n                                        \n                                            2 p.m. MT\n                                        \n                                            Summit League Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "North Dakota",
+            "date": "Feb 13 (Thu)\n                                        \n                                            6 p.m. MT\n                                        \n                                            Summit League Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "North Dakota State",
+            "date": "Feb 15 (Sat)\n                                        \n                                            12 p.m. MT\n                                        \n                                            Summit League Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Oral Roberts",
+            "date": "Feb 19 (Wed)\n                                        \n                                            7 p.m. MT\n                                        \n                                            Altitude/Summit League Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Kansas City",
+            "date": "Feb 27 (Thu)\n                                        \n                                            6 p.m. MT\n                                        \n                                            Summit League Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "South Dakota State",
+            "date": "Mar 1 (Sat)\n                                        \n                                            1 p.m. MT\n                                        \n                                            Summit League Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "#2\n                                            \n                                                St. Thomas",
+            "date": "Mar 6 (Thu)\n                                        \n                                            7:30 p.m. MT\n                                        \n                                            Summit League Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Semifinal",
+            "date": "Mar 8 (Sat)\n                                        \n                                            8:30 p.m. MT\n                                        \n                                            CBS Sports Network"
+        },
+        {
+            "duTeam": "MBBALL",
+            "opponent": "Championship",
+            "date": "Mar 9 (Sun)\n                                        \n                                            7 p.m. MT\n                                        \n                                            CBS Sports Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "Colorado Christian",
+            "date": "Nov 4 (Mon)\n                                        \n                                            6 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "Saint Mary's",
+            "date": "Nov 9 (Sat)\n                                        \n                                            2 p.m. MT"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "High Point",
+            "date": "Nov 17 (Sun)\n                                        \n                                            10 a.m. MT\n                                        \n                                            ESPN+"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "Christian Brothers University",
+            "date": "Nov 22 (Fri)\n                                        \n                                            1 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "UC San Diego",
+            "date": "Nov 24 (Sun)\n                                        \n                                            1 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "UC Irvine",
+            "date": "Nov 30 (Sat)\n                                        \n                                            1 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "Idaho State",
+            "date": "Dec 4 (Wed)\n                                        \n                                            7 p.m. MT\n                                        \n                                            ESPN+"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "Portland State",
+            "date": "Dec 7 (Sat)\n                                        \n                                            1 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "Colorado",
+            "date": "Dec 10 (Tue)\n                                        \n                                            7 p.m. MT\n                                        \n                                            ESPN+"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "Northern Colorado",
+            "date": "Dec 13 (Fri)\n                                        \n                                            6 p.m. MT\n                                        \n                                            Altitude 2/Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "Texas State",
+            "date": "Dec 15 (Sun)\n                                        \n                                            1 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "Western Colorado",
+            "date": "Dec 18 (Wed)\n                                        \n                                            6 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "North Alabama",
+            "date": "Dec 21 (Sat)\n                                        \n                                            12 p.m. MT\n                                        \n                                            Altitude/Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "South Dakota",
+            "date": "Jan 2 (Thu)\n                                        \n                                            6 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "South Dakota State",
+            "date": "Jan 4 (Sat)\n                                        \n                                            1 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "North Dakota State",
+            "date": "Jan 9 (Thu)\n                                        \n                                            6 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "North Dakota",
+            "date": "Jan 11 (Sat)\n                                        \n                                            12 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "Kansas City",
+            "date": "Jan 15 (Wed)\n                                        \n                                            6 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "Oral Roberts",
+            "date": "Jan 18 (Sat)\n                                        \n                                            3 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "Omaha",
+            "date": "Jan 22 (Wed)\n                                        \n                                            6 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "St. Thomas",
+            "date": "Jan 25 (Sat)\n                                        \n                                            11 a.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "Oral Roberts",
+            "date": "Feb 1 (Sat)\n                                        \n                                            12 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "Kansas City",
+            "date": "Feb 5 (Wed)\n                                        \n                                            6 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "St. Thomas",
+            "date": "Feb 8 (Sat)\n                                        \n                                            11 a.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "Omaha",
+            "date": "Feb 15 (Sat)\n                                        \n                                            1 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "North Dakota State",
+            "date": "Feb 20 (Thu)\n                                        \n                                            6 p.m.MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "North Dakota",
+            "date": "Feb 22 (Sat)\n                                        \n                                            1 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "South Dakota State",
+            "date": "Feb 27 (Thu)\n                                        \n                                            6:00 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "South Dakota",
+            "date": "Mar 1 (Sat)\n                                        \n                                            12 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "#8\n                                            \n                                                Omaha",
+            "date": "Mar 5 (Wed)\n                                        \n                                            3:30 p.m. MT\n                                        \n                                            Summit League Network\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "#1\n                                            \n                                                South Dakota State",
+            "date": "Mar 6 (Thu)\n                                        \n                                            1:30 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "Semifinal",
+            "date": "Mar 8 (Sat)\n                                        \n                                            11 a.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WBBALL",
+            "opponent": "Championship",
+            "date": "Mar 9 (Sun)\n                                        \n                                            2 p.m. MT\n                                        \n                                            CBS Sports Network"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 1/2",
+            "date": "Sep 17 (Tue)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 3",
+            "date": "Sep 18 (Wed)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 1",
+            "date": "Sep 21 (Sat)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 2",
+            "date": "Sep 22 (Sun)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 3",
+            "date": "Sep 23 (Mon)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 1/2",
+            "date": "Sep 30 (Mon)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 3",
+            "date": "Oct 1 (Tue)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 1",
+            "date": "Oct 6 (Sun)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 2",
+            "date": "Oct 7 (Mon)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 3",
+            "date": "Oct 8 (Tue)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 1",
+            "date": "Feb 2 (Sun)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 2",
+            "date": "Feb 3 (Mon)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 3",
+            "date": "Feb 4 (Tue)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 1/2",
+            "date": "Feb 17 (Mon)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 3",
+            "date": "Feb 18 (Tue)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 1/2",
+            "date": "Mar 24 (Mon)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 3",
+            "date": "Mar 25 (Tue)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 1/2",
+            "date": "Apr 7 (Mon)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 3",
+            "date": "Apr 8 (Tue)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 1",
+            "date": "Apr 11 (Fri)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "UC Davis",
+            "date": "Apr 12 (Sat)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 3",
+            "date": "Apr 13 (Sun)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 1",
+            "date": "Apr 27 (Sun)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 2",
+            "date": "Apr 28 (Mon)"
+        },
+        {
+            "duTeam": "MGOLF",
+            "opponent": "Round 3",
+            "date": "Apr 29 (Tue)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 1",
+            "date": "Sep 23 (Mon)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 2",
+            "date": "Sep 24 (Tue)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 3",
+            "date": "Sep 25 (Wed)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 1",
+            "date": "Oct 4 (Fri)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 2",
+            "date": "Oct 5 (Sat)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 3",
+            "date": "Oct 6 (Sun)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 1",
+            "date": "Oct 18 (Fri)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 2",
+            "date": "Oct 19 (Sat)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 3",
+            "date": "Oct 20 (Sun)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 1/2",
+            "date": "Feb 3 (Mon)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 3",
+            "date": "Feb 4 (Tue)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 1/2",
+            "date": "Feb 10 (Mon)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 3",
+            "date": "Feb 11 (Tue)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 1/2",
+            "date": "Mar 3 (Mon)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 3",
+            "date": "Mar 4 (Tue)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 1",
+            "date": "Mar 24 (Mon)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 2",
+            "date": "Mar 25 (Tue)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 3",
+            "date": "Mar 26 (Wed)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 1/2",
+            "date": "Apr 6 (Sun)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 3",
+            "date": "Apr 7 (Mon)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 1",
+            "date": "Apr 20 (Sun)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 2",
+            "date": "Apr 21 (Mon)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 3",
+            "date": "Apr 22 (Tue)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 1",
+            "date": "May 5 (Mon)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 2",
+            "date": "May 6 (Tue)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "Round 3",
+            "date": "May 7 (Wed)"
+        },
+        {
+            "duTeam": "WGOLF",
+            "opponent": "NCAA Championship",
+            "date": "May 16 (Fri)\n                                        \n                                            May 21 (Wed)"
+        },
+        {
+            "duTeam": "WGYM",
+            "opponent": "Crimson & Gold Intrasquad",
+            "date": "Dec 22 (Sun)\n                                        \n                                            1:45 p.m. MT"
+        },
+        {
+            "duTeam": "WGYM",
+            "opponent": "(13) Michigan",
+            "date": "Jan 5 (Sun)\n                                        \n                                            2:45 p.m. MT\n                                        \n                                            ESPN2"
+        },
+        {
+            "duTeam": "WGYM",
+            "opponent": "(5) Missouri, Georgia, LIU",
+            "date": "Jan 12 (Sun)\n                                        \n                                            1:45 p.m. MT\n                                        \n                                            Midco Sports Plus"
+        },
+        {
+            "duTeam": "WGYM",
+            "opponent": "(17) Arkansas, Texas Woman's",
+            "date": "Jan 20 (Mon)\n                                        \n                                            1 p.m. MT\n                                        \n                                            SECN+"
+        },
+        {
+            "duTeam": "WGYM",
+            "opponent": "West Virginia",
+            "date": "Jan 26 (Sun)\n                                        \n                                            1:45 p.m. MT\n                                        \n                                            Altitude 2 / Midco Sports Plus"
+        },
+        {
+            "duTeam": "WGYM",
+            "opponent": "(20) Arizona",
+            "date": "Jan 31 (Fri)\n                                        \n                                            7 p.m. MT\n                                        \n                                            ESPN+"
+        },
+        {
+            "duTeam": "WGYM",
+            "opponent": "BYU",
+            "date": "Feb 8 (Sat)\n                                        \n                                            6:45 p.m. MT\n                                        \n                                            Midco Sports Plus"
+        },
+        {
+            "duTeam": "WGYM",
+            "opponent": "(10) Oregon State, Ball State, Texas Woman's",
+            "date": "Feb 16 (Sun)\n                                        \n                                            1:45 p.m. MT\n                                        \n                                            Midco Sports Plus"
+        },
+        {
+            "duTeam": "WGYM",
+            "opponent": "(4) Utah",
+            "date": "Feb 21 (Fri)\n                                        \n                                            7 p.m. MT\n                                        \n                                            ESPN+"
+        },
+        {
+            "duTeam": "WGYM",
+            "opponent": "Iowa State, (18) NC State",
+            "date": "Feb 28 (Fri)\n                                        \n                                            5:30 p.m. MT\n                                        \n                                            ESPN+"
+        },
+        {
+            "duTeam": "WGYM",
+            "opponent": "Arizona State",
+            "date": "Mar 9 (Sun)\n                                        \n                                            1:45 p.m. MT\n                                        \n                                            Midco Sports Plus"
+        },
+        {
+            "duTeam": "WGYM",
+            "opponent": "Stanford",
+            "date": "Mar 14 (Fri)\n                                        \n                                            7 p.m. MT"
+        },
+        {
+            "duTeam": "WGYM",
+            "opponent": "Big 12 Championship",
+            "date": "Mar 22 (Sat)\n                                        \n                                            TBD\n                                        \n                                            ESPN+ / ESPNU"
+        },
+        {
+            "duTeam": "WGYM",
+            "opponent": "NCAA Regionals",
+            "date": "Apr 2 (Wed)\n                                        \n                                            Apr 6 (Sun)\n                                            TBD"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "Alaska Anchorage",
+            "date": "Oct 5 (Sat)\n                                        \n                                            8 p.m. MT\n                                        \n                                            UAA Seawolves YouTube\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "Alaska Anchorage",
+            "date": "Oct 6 (Sun)\n                                        \n                                            7 p.m. MT\n                                        \n                                            UAA Seawolves YouTube\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "#19\n                                            \n                                                Northeastern",
+            "date": "Oct 18 (Fri)\n                                        \n                                            7 p.m. MT\n                                        \n                                            NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "#19\n                                            \n                                                Northeastern",
+            "date": "Oct 19 (Sat)\n                                        \n                                            6 p.m. MT\n                                        \n                                            Altitude/NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "#20\n                                            \n                                                Wisconsin",
+            "date": "Oct 25 (Fri)\n                                        \n                                            7 p.m. MT\n                                        \n                                            Altitude/NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "#20\n                                            \n                                                Wisconsin",
+            "date": "Oct 26 (Sat)\n                                        \n                                            6 p.m. MT\n                                        \n                                            NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "Yale",
+            "date": "Nov 1 (Fri)\n                                        \n                                            5 p.m. MT\n                                        \n                                            ESPN+\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "Yale",
+            "date": "Nov 2 (Sat)\n                                        \n                                            5 p.m. MT\n                                        \n                                            ESPN+\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "Lindenwood",
+            "date": "Nov 8 (Fri)\n                                        \n                                            7 p.m. MT\n                                        \n                                            NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "Lindenwood",
+            "date": "Nov 9 (Sat)\n                                        \n                                            7 p.m. MT\n                                        \n                                            NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "#9/10\n                                            \n                                                North Dakota",
+            "date": "Nov 15 (Fri)\n                                        \n                                            6 p.m. MT\n                                        \n                                            NCHC.tv/TSN 3 (Canada)\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "#9/10\n                                            \n                                                North Dakota",
+            "date": "Nov 16 (Sat)\n                                        \n                                            5 p.m. MT\n                                        \n                                            Altitude/NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "Arizona State",
+            "date": "Nov 22 (Fri)\n                                        \n                                            7 p.m. MT\n                                        \n                                            NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "Arizona State",
+            "date": "Nov 23 (Sat)\n                                        \n                                            6 p.m. MT\n                                        \n                                            Altitude 2/NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "#7\n                                            \n                                                Western Michigan",
+            "date": "Dec 6 (Fri)\n                                        \n                                            5 p.m. MT\n                                        \n                                            NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "#7\n                                            \n                                                Western Michigan",
+            "date": "Dec 7 (Sat)\n                                        \n                                            4 p.m. MT\n                                        \n                                            NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "#10/11\n                                            \n                                                Colorado College",
+            "date": "Dec 13 (Fri)\n                                        \n                                            7 p.m. MT\n                                        \n                                            CW2 (KWGN)/TSN 2 (Canada)/NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "#10/11\n                                            \n                                                Colorado College",
+            "date": "Dec 14 (Sat)\n                                        \n                                            7 p.m. MT\n                                        \n                                            Altitude 2/NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "UNLV",
+            "date": "Dec 28 (Sat)\n                                        \n                                            6 p.m. MT\n                                        \n                                            NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "#7\n                                            \n                                                Maine",
+            "date": "Jan 3 (Fri)\n                                        \n                                            4 p.m. MT\n                                        \n                                            ESPNU/ESPN+\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "#7\n                                            \n                                                Maine",
+            "date": "Jan 4 (Sat)\n                                        \n                                            4:30 p.m. MT\n                                        \n                                            ESPN+\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "Miami",
+            "date": "Jan 10 (Fri)\n                                        \n                                            7 p.m. MT\n                                        \n                                            Altitude 2/NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "Miami",
+            "date": "Jan 11 (Sat)\n                                        \n                                            6 p.m. MT\n                                        \n                                            NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "Minnesota Duluth",
+            "date": "Jan 24 (Fri)\n                                        \n                                            6 p.m. MT\n                                        \n                                            NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "Minnesota Duluth",
+            "date": "Jan 25 (Sat)\n                                        \n                                            5 p.m. MT\n                                        \n                                            CW2 (KWGN)/NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "Omaha",
+            "date": "Jan 31 (Fri)\n                                        \n                                            7 p.m. MT\n                                        \n                                            NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "Omaha",
+            "date": "Feb 1 (Sat)\n                                        \n                                            6 p.m. MT\n                                        \n                                            NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "#12\n                                            \n                                                Arizona State",
+            "date": "Feb 7 (Fri)\n                                        \n                                            7 p.m. MT\n                                        \n                                            CBS Sports Network\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "#12\n                                            \n                                                Arizona State",
+            "date": "Feb 8 (Sat)\n                                        \n                                            5 p.m. MT\n                                        \n                                            Altitude 2/NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "#17\n                                            \n                                                North Dakota",
+            "date": "Feb 14 (Fri)\n                                        \n                                            7 p.m. MT\n                                        \n                                            CBS Sports Network\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "#17\n                                            \n                                                North Dakota",
+            "date": "Feb 15 (Sat)\n                                        \n                                            6 p.m. MT\n                                        \n                                            Altitude/NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "Miami",
+            "date": "Feb 21 (Fri)\n                                        \n                                            3:30 p.m. MT\n                                        \n                                            NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "Miami",
+            "date": "Feb 22 (Sat)\n                                        \n                                            4 p.m. MT\n                                        \n                                            NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "St. Cloud State",
+            "date": "Feb 28 (Fri)\n                                        \n                                            7 p.m. MT\n                                        \n                                            NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "St. Cloud State",
+            "date": "Mar 1 (Sat)\n                                        \n                                            6 p.m. MT\n                                        \n                                            NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "Colorado College",
+            "date": "Mar 7 (Fri)\n                                        \n                                            7 p.m. MT\n                                        \n                                            Altitude 2/NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "Colorado College",
+            "date": "Mar 8 (Sat)\n                                        \n                                            6 p.m. MT\n                                        \n                                            NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "Quarterfinals",
+            "date": "Mar 14 (Fri)\n                                        \n                                            Mar 16 (Sun)\n                                            TBA\n                                        \n                                            NCHC.tv\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MHOCKEY",
+            "opponent": "Frozen Faceoff",
+            "date": "Mar 21 (Fri)\n                                        \n                                            Mar 22 (Sat)\n                                            TBA\n                                        \n                                            CBS Sports Network\n                                        \n                                            Denver Sports 104.3 HD3"
+        },
+        {
+            "duTeam": "MLAX",
+            "opponent": "[8] Johns Hopkins",
+            "date": "Feb 1 (Sat)\n                                        \n                                            12 p.m. MT\n                                        \n                                            Midco Sports Plus\n                                        \n                                            104.3 the Fan HD3"
+        },
+        {
+            "duTeam": "MLAX",
+            "opponent": "Air Force",
+            "date": "Feb 8 (Sat)\n                                        \n                                            12 p.m. MT\n                                        \n                                            ESPN+"
+        },
+        {
+            "duTeam": "MLAX",
+            "opponent": "Utah",
+            "date": "Feb 15 (Sat)\n                                        \n                                            12 p.m. MT\n                                        \n                                            Midco Sports Plus"
+        },
+        {
+            "duTeam": "MLAX",
+            "opponent": "#3\n                                            \n                                                Cornell",
+            "date": "Feb 22 (Sat)\n                                        \n                                            9:30 a.m. MT\n                                        \n                                            ESPN+"
+        },
+        {
+            "duTeam": "MLAX",
+            "opponent": "Marist",
+            "date": "Feb 28 (Fri)\n                                        \n                                            6 p.m. MT\n                                        \n                                            Midco Sports Plus\n                                        \n                                            ESPN Denver 1600"
+        },
+        {
+            "duTeam": "MLAX",
+            "opponent": "Quinnipiac",
+            "date": "Mar 2 (Sun)\n                                        \n                                            12 p.m. MT\n                                        \n                                            Midco Sports Plus\n                                        \n                                            104.3 The Fan HD3"
+        },
+        {
+            "duTeam": "MLAX",
+            "opponent": "Yale",
+            "date": "Mar 8 (Sat)\n                                        \n                                            10 a.m. MT\n                                        \n                                            ESPN+"
+        },
+        {
+            "duTeam": "MLAX",
+            "opponent": "Ohio State",
+            "date": "Mar 16 (Sun)\n                                        \n                                            12 p.m. MT\n                                        \n                                            Midco Sports Plus"
+        },
+        {
+            "duTeam": "MLAX",
+            "opponent": "Duke",
+            "date": "Mar 22 (Sat)\n                                        \n                                            6 p.m. MT"
+        },
+        {
+            "duTeam": "MLAX",
+            "opponent": "Villanova",
+            "date": "Mar 29 (Sat)\n                                        \n                                            2 p.m. MT\n                                        \n                                            Altitude 2/Midco Sports Plus"
+        },
+        {
+            "duTeam": "MLAX",
+            "opponent": "St. John's",
+            "date": "Apr 5 (Sat)\n                                        \n                                            11 a.m. MT"
+        },
+        {
+            "duTeam": "MLAX",
+            "opponent": "Georgetown",
+            "date": "Apr 12 (Sat)\n                                        \n                                            1 p.m. MT\n                                        \n                                            CBS Sports Network"
+        },
+        {
+            "duTeam": "MLAX",
+            "opponent": "Providence",
+            "date": "Apr 19 (Sat)\n                                        \n                                            3 p.m. MT\n                                        \n                                            CBS Sports Network"
+        },
+        {
+            "duTeam": "MLAX",
+            "opponent": "Marquette",
+            "date": "Apr 25 (Fri)\n                                        \n                                            5 p.m. MT\n                                        \n                                            FloCollege"
+        },
+        {
+            "duTeam": "MLAX",
+            "opponent": "Semifinal",
+            "date": "May 1 (Thu)\n                                        \n                                            4 and 7 p.m. MT\n                                        \n                                            CBS Sports Network"
+        },
+        {
+            "duTeam": "MLAX",
+            "opponent": "Final",
+            "date": "May 3 (Sat)\n                                        \n                                            3 p.m. MT\n                                        \n                                            CBS Sports Network"
+        },
+        {
+            "duTeam": "WLAX",
+            "opponent": "Louisville",
+            "date": "Feb 7 (Fri)\n                                        \n                                            10 a.m. MT\n                                        \n                                            ACC Network"
+        },
+        {
+            "duTeam": "WLAX",
+            "opponent": "Ohio State",
+            "date": "Feb 9 (Sun)\n                                        \n                                            10 a.m. MT\n                                        \n                                            Big 10+"
+        },
+        {
+            "duTeam": "WLAX",
+            "opponent": "Vanderbilt",
+            "date": "Feb 16 (Sun)\n                                        \n                                            12 p.m. MT\n                                        \n                                            Midco Sports Plus"
+        },
+        {
+            "duTeam": "WLAX",
+            "opponent": "Arizona State",
+            "date": "Feb 21 (Fri)\n                                        \n                                            1 p.m. MT"
+        },
+        {
+            "duTeam": "WLAX",
+            "opponent": "San Diego State",
+            "date": "Feb 23 (Sun)\n                                        \n                                            1 p.m. MT"
+        },
+        {
+            "duTeam": "WLAX",
+            "opponent": "#9\n                                            \n                                                Maryland",
+            "date": "Mar 1 (Sat)\n                                        \n                                            10 a.m. MT\n                                        \n                                            Big 10+"
+        },
+        {
+            "duTeam": "WLAX",
+            "opponent": "Michigan",
+            "date": "Mar 5 (Wed)\n                                        \n                                            12 p.m. MT\n                                        \n                                            Midco Sports Plus"
+        },
+        {
+            "duTeam": "WLAX",
+            "opponent": "Fairfield",
+            "date": "Mar 9 (Sun)\n                                        \n                                            11 a.m. MT\n                                        \n                                            Midco Sports Plus"
+        },
+        {
+            "duTeam": "WLAX",
+            "opponent": "Stony Brook",
+            "date": "Mar 18 (Tue)\n                                        \n                                            11 a.m. MT\n                                        \n                                            Midco Sports Plus"
+        },
+        {
+            "duTeam": "WLAX",
+            "opponent": "Xavier",
+            "date": "Mar 23 (Sun)\n                                        \n                                            9 a.m. MT\n                                        \n                                            FloSports"
+        },
+        {
+            "duTeam": "WLAX",
+            "opponent": "Georgetown",
+            "date": "Mar 29 (Sat)\n                                        \n                                            11 a.m. MT\n                                        \n                                            Altitude 2/Midco Sports Plus"
+        },
+        {
+            "duTeam": "WLAX",
+            "opponent": "Marquette",
+            "date": "Apr 2 (Wed)\n                                        \n                                            11 a.m. MT\n                                        \n                                            FloSports"
+        },
+        {
+            "duTeam": "WLAX",
+            "opponent": "Connecticut",
+            "date": "Apr 6 (Sun)\n                                        \n                                            10 a.m. MT\n                                        \n                                            FloSports"
+        },
+        {
+            "duTeam": "WLAX",
+            "opponent": "Stanford",
+            "date": "Apr 13 (Sun)\n                                        \n                                            1 p.m. MT\n                                        \n                                            ACC Network"
+        },
+        {
+            "duTeam": "WLAX",
+            "opponent": "Colorado",
+            "date": "Apr 17 (Thu)\n                                        \n                                            7 p.m. MT\n                                        \n                                            ESPN+"
+        },
+        {
+            "duTeam": "WLAX",
+            "opponent": "Butler",
+            "date": "Apr 19 (Sat)\n                                        \n                                            11 a.m. MT\n                                        \n                                            Midco Sports Plus"
+        },
+        {
+            "duTeam": "WLAX",
+            "opponent": "Villanova",
+            "date": "Apr 26 (Sat)\n                                        \n                                            12 p.m. MT\n                                        \n                                            Midco Sports Plus"
+        },
+        {
+            "duTeam": "WLAX",
+            "opponent": "Big East Tournament Semifinal",
+            "date": "May 1 (Thu)"
+        },
+        {
+            "duTeam": "WLAX",
+            "opponent": "Big East Tournament Final",
+            "date": "May 3 (Sat)\n                                        \n                                            FS2"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "10K Freestyle",
+            "date": "Jan 2 (Thu)\n                                        \n                                            1 p.m. MT/3 p.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "20K Classic",
+            "date": "Jan 5 (Sun)\n                                        \n                                            1 p.m. MT/2:30 p.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "Giant Slalom",
+            "date": "Feb 19 (Wed)\n                                        \n                                            1:30 p.m. MT/4:15 p.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "Slalom",
+            "date": "Feb 21 (Fri)\n                                        \n                                            1 p.m. MT/4 p.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "Slalom",
+            "date": "Jan 6 (Mon)\n                                        \n                                            9:30 a.m. MT/12:30 p.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "Giant Slalom",
+            "date": "Feb 8 (Sat)\n                                        \n                                            9 a.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "Slalom",
+            "date": "Jan 7 (Tue)\n                                        \n                                            9:30 a.m. MT/12:30 p.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "Giant Slalom",
+            "date": "Jan 8 (Wed)\n                                        \n                                            9:15 a.m. MT/12:15 p.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "7.5K Classic",
+            "date": "Feb 8 (Sat)\n                                        \n                                            10 a.m. MT/11:30 a.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "10K Freestyle",
+            "date": "Feb 9 (Sun)\n                                        \n                                            10 a.m. MT/11:30 a.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "7.5K Classic",
+            "date": "Jan 18 (Sat)\n                                        \n                                            9 a.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "15K Freestyle",
+            "date": "Jan 19 (Sun)\n                                        \n                                            9 a.m. MT/10:30 a.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "Giant Slalom",
+            "date": "Feb 9 (Sun)\n                                        \n                                            9 a.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "Slalom",
+            "date": "Feb 10 (Mon)\n                                        \n                                            9 a.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "20K Freestyle",
+            "date": "Jan 24 (Fri)\n                                        \n                                            10 a.m. MT/11:30 a.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "7.5K Classic",
+            "date": "Jan 26 (Sun)\n                                        \n                                            9 a.m. MT/10:30 a.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "Giant Slalom",
+            "date": "Feb 3 (Mon)\n                                        \n                                            10 a.m. MT/10:45 a.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "Slalom",
+            "date": "Feb 4 (Tue)\n                                        \n                                            10:15 a.m. MT/11 a.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "Classic Sprints",
+            "date": "Feb 16 (Sun)\n                                        \n                                            1 p.m. MT/3 p.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "10K Freestyle",
+            "date": "Feb 17 (Mon)\n                                        \n                                            1 p.m. MT/2:45 p.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "Giant Slalom",
+            "date": "Feb 20 (Thu)\n                                        \n                                            1:30 p.m. MT/4:15 p.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "7.5K Classic",
+            "date": "Feb 21 (Fri)\n                                        \n                                            12 p.m. MT/1:30 p.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "20K Freestyle",
+            "date": "Feb 22 (Sat)\n                                        \n                                            12 p.m. MT/1:30 p.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "Slalom",
+            "date": "Feb 22 (Sat)\n                                        \n                                            1:20 p.m. MT/3:30 p.m. MT"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "Giant Slalom",
+            "date": "Mar 5 (Wed)"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "7.5K Classic",
+            "date": "Mar 6 (Thu)"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "Slalom",
+            "date": "Mar 7 (Fri)"
+        },
+        {
+            "duTeam": "SKIING",
+            "opponent": "20K Freestyle",
+            "date": "Mar 8 (Sat)"
+        },
+        {
+            "duTeam": "MSOC",
+            "opponent": "New Mexico United",
+            "date": "Feb 22 (Sat)\n                                        \n                                            12 p.m. MT"
+        },
+        {
+            "duTeam": "MSOC",
+            "opponent": "Colorado Rapids II",
+            "date": "Mar 2 (Sun)\n                                        \n                                            1 p.m. MT"
+        },
+        {
+            "duTeam": "MSOC",
+            "opponent": "Air Force",
+            "date": "Apr 5 (Sat)\n                                        \n                                            TBA"
+        },
+        {
+            "duTeam": "MSOC",
+            "opponent": "Utah Valley",
+            "date": "Apr 12 (Sat)\n                                        \n                                            12 p.m. MT"
+        },
+        {
+            "duTeam": "MSOC",
+            "opponent": "Metro State",
+            "date": "Apr 24 (Thu)\n                                        \n                                            7 p.m. MT"
+        },
+        {
+            "duTeam": "WSOC",
+            "opponent": "t-#8 / #18\n                                            \n                                                Texas Tech",
+            "date": "Aug 8 (Thu)\n                                        \n                                            6 p.m. MT"
+        },
+        {
+            "duTeam": "WSOC",
+            "opponent": "Air Force",
+            "date": "Aug 11 (Sun)\n                                        \n                                            1 p.m. MT"
+        },
+        {
+            "duTeam": "WSOC",
+            "opponent": "t-#8 / #13\n                                            \n                                                North Carolina",
+            "date": "Aug 15 (Thu)\n                                        \n                                            7 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WSOC",
+            "opponent": "Idaho State",
+            "date": "Aug 18 (Sun)\n                                        \n                                            1 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WSOC",
+            "opponent": "t-#24\n                                            \n                                                Texas A&M",
+            "date": "Aug 21 (Wed)\n                                        \n                                            6 p.m. MT\n                                        \n                                            SECN+"
+        },
+        {
+            "duTeam": "WSOC",
+            "opponent": "Lamar",
+            "date": "Aug 25 (Sun)\n                                        \n                                            6 p.m. MT\n                                        \n                                            ESPN+"
+        },
+        {
+            "duTeam": "WSOC",
+            "opponent": "Cal State Northridge",
+            "date": "Aug 29 (Thu)\n                                        \n                                            7 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WSOC",
+            "opponent": "Colorado College",
+            "date": "Sep 1 (Sun)\n                                        \n                                            1 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WSOC",
+            "opponent": "#18\n                                            \n                                                Colorado",
+            "date": "Sep 5 (Thu)\n                                        \n                                            7 p.m. MT\n                                        \n                                            ESPN+"
+        },
+        {
+            "duTeam": "WSOC",
+            "opponent": "Southern Utah",
+            "date": "Sep 8 (Sun)\n                                        \n                                            12:30 p.m. MT\n                                        \n                                            ESPN+"
+        },
+        {
+            "duTeam": "WSOC",
+            "opponent": "Colorado State",
+            "date": "Sep 12 (Thu)\n                                        \n                                            7 p.m. MT\n                                        \n                                            Mountain West Network"
+        },
+        {
+            "duTeam": "WSOC",
+            "opponent": "Gonzaga",
+            "date": "Sep 19 (Thu)\n                                        \n                                            8 p.m. MT\n                                        \n                                            ESPN+"
+        },
+        {
+            "duTeam": "WSOC",
+            "opponent": "Kansas City",
+            "date": "Sep 26 (Thu)\n                                        \n                                            6 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WSOC",
+            "opponent": "North Dakota",
+            "date": "Sep 29 (Sun)\n                                        \n                                            1 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WSOC",
+            "opponent": "Oral Roberts",
+            "date": "Oct 5 (Sat)\n                                        \n                                            11 a.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WSOC",
+            "opponent": "St. Thomas",
+            "date": "Oct 10 (Thu)\n                                        \n                                            7 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WSOC",
+            "opponent": "North Dakota State",
+            "date": "Oct 13 (Sun)\n                                        \n                                            12 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WSOC",
+            "opponent": "Omaha",
+            "date": "Oct 17 (Thu)\n                                        \n                                            7 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WSOC",
+            "opponent": "South Dakota State",
+            "date": "Oct 24 (Thu)\n                                        \n                                            5 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WSOC",
+            "opponent": "South Dakota",
+            "date": "Oct 27 (Sun)\n                                        \n                                            12 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WSOC",
+            "opponent": "[3] South Dakota State",
+            "date": "Nov 7 (Thu)\n                                        \n                                            11 a.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "MSWIM",
+            "opponent": "Front Range Invite",
+            "date": "Oct 4 (Fri)\n                                        \n                                            Oct 5 (Sat)\n                                            5 p.m. MT"
+        },
+        {
+            "duTeam": "MSWIM",
+            "opponent": "Sprint Classic",
+            "date": "Oct 11 (Fri)\n                                        \n                                            1 p.m. MT"
+        },
+        {
+            "duTeam": "MSWIM",
+            "opponent": "Roadrunner Invite",
+            "date": "Oct 12 (Sat)\n                                        \n                                            11 a.m. MT"
+        },
+        {
+            "duTeam": "MSWIM",
+            "opponent": "Air Force",
+            "date": "Oct 19 (Sat)\n                                        \n                                            11 a.m. MT"
+        },
+        {
+            "duTeam": "MSWIM",
+            "opponent": "Colorado Mesa",
+            "date": "Nov 2 (Sat)\n                                        \n                                            12 p.m. MT"
+        },
+        {
+            "duTeam": "MSWIM",
+            "opponent": "Minnesota Invite",
+            "date": "Dec 4 (Wed)\n                                        \n                                            Dec 7 (Sat)\n                                            TBA"
+        },
+        {
+            "duTeam": "MSWIM",
+            "opponent": "CSCAA Open Water Nationals",
+            "date": "Dec 15 (Sun)\n                                        \n                                            All Day"
+        },
+        {
+            "duTeam": "MSWIM",
+            "opponent": "Colorado School of Mines",
+            "date": "Jan 3 (Fri)\n                                        \n                                            12 p.m. MT"
+        },
+        {
+            "duTeam": "MSWIM",
+            "opponent": "Wyoming",
+            "date": "Jan 11 (Sat)\n                                        \n                                            10:30 a.m. MT"
+        },
+        {
+            "duTeam": "MSWIM",
+            "opponent": "Cal Diving Invite",
+            "date": "Jan 16 (Thu)\n                                        \n                                            Jan 18 (Sat)\n                                            TBA"
+        },
+        {
+            "duTeam": "MSWIM",
+            "opponent": "Utah",
+            "date": "Jan 17 (Fri)\n                                        \n                                            3 p.m. MT"
+        },
+        {
+            "duTeam": "MSWIM",
+            "opponent": "BYU",
+            "date": "Jan 18 (Sat)\n                                        \n                                            11 a.m. MT"
+        },
+        {
+            "duTeam": "MSWIM",
+            "opponent": "Air Force Diving Invite",
+            "date": "Jan 30 (Thu)\n                                        \n                                            Feb 1 (Sat)\n                                            TBA"
+        },
+        {
+            "duTeam": "MSWIM",
+            "opponent": "Sprint Eliminator",
+            "date": "Feb 1 (Sat)\n                                        \n                                            12 p.m. MT"
+        },
+        {
+            "duTeam": "MSWIM",
+            "opponent": "First Chance Invitational",
+            "date": "Feb 7 (Fri)\n                                        \n                                            Feb 8 (Sat)\n                                            3 p.m. MT"
+        },
+        {
+            "duTeam": "MSWIM",
+            "opponent": "Summit League Championships",
+            "date": "Feb 19 (Wed)\n                                        \n                                            Feb 22 (Sat)\n                                            TBA\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "MSWIM",
+            "opponent": "NCAA Zone E Diving",
+            "date": "Mar 10 (Mon)\n                                        \n                                            Mar 12 (Wed)\n                                            TBA"
+        },
+        {
+            "duTeam": "MSWIM",
+            "opponent": "NIC Championships",
+            "date": "Mar 12 (Wed)\n                                        \n                                            Mar 15 (Sat)\n                                            TBA"
+        },
+        {
+            "duTeam": "MSWIM",
+            "opponent": "NCAA Championships",
+            "date": "Mar 26 (Wed)\n                                        \n                                            Mar 29 (Sat)\n                                            TBA"
+        },
+        {
+            "duTeam": "WSWIM",
+            "opponent": "Front Range Invite",
+            "date": "Oct 4 (Fri)\n                                        \n                                            Oct 5 (Sat)\n                                            5 p.m. MT"
+        },
+        {
+            "duTeam": "WSWIM",
+            "opponent": "Sprint Classic",
+            "date": "Oct 11 (Fri)\n                                        \n                                            1 p.m. MT"
+        },
+        {
+            "duTeam": "WSWIM",
+            "opponent": "Roadrunner Invite",
+            "date": "Oct 12 (Sat)\n                                        \n                                            11 a.m. MT"
+        },
+        {
+            "duTeam": "WSWIM",
+            "opponent": "Washington State",
+            "date": "Oct 19 (Sat)\n                                        \n                                            11 a.m. MT"
+        },
+        {
+            "duTeam": "WSWIM",
+            "opponent": "Air Force",
+            "date": "Oct 19 (Sat)\n                                        \n                                            11 a.m. MT"
+        },
+        {
+            "duTeam": "WSWIM",
+            "opponent": "Colorado State",
+            "date": "Nov 1 (Fri)\n                                        \n                                            11:30 a.m. MT"
+        },
+        {
+            "duTeam": "WSWIM",
+            "opponent": "Minnesota Invite",
+            "date": "Dec 4 (Wed)\n                                        \n                                            Dec 7 (Sat)\n                                            TBA"
+        },
+        {
+            "duTeam": "WSWIM",
+            "opponent": "CSCAA Open Water Nationals",
+            "date": "Dec 15 (Sun)\n                                        \n                                            All Day"
+        },
+        {
+            "duTeam": "WSWIM",
+            "opponent": "Colorado School of Mines",
+            "date": "Jan 3 (Fri)\n                                        \n                                            12 p.m. MT"
+        },
+        {
+            "duTeam": "WSWIM",
+            "opponent": "Wyoming",
+            "date": "Jan 11 (Sat)\n                                        \n                                            10:30 a.m. MT"
+        },
+        {
+            "duTeam": "WSWIM",
+            "opponent": "Cal Diving Invite",
+            "date": "Jan 16 (Thu)\n                                        \n                                            Jan 18 (Sat)\n                                            TBA"
+        },
+        {
+            "duTeam": "WSWIM",
+            "opponent": "Utah",
+            "date": "Jan 17 (Fri)\n                                        \n                                            3 p.m. MT"
+        },
+        {
+            "duTeam": "WSWIM",
+            "opponent": "BYU",
+            "date": "Jan 18 (Sat)\n                                        \n                                            11 a.m. MT"
+        },
+        {
+            "duTeam": "WSWIM",
+            "opponent": "Air Force Diving Invite",
+            "date": "Jan 30 (Thu)\n                                        \n                                            Feb 1 (Sat)\n                                            TBA"
+        },
+        {
+            "duTeam": "WSWIM",
+            "opponent": "Sprint Eliminator",
+            "date": "Feb 1 (Sat)\n                                        \n                                            12 p.m. MT"
+        },
+        {
+            "duTeam": "WSWIM",
+            "opponent": "First Chance Invitational",
+            "date": "Feb 7 (Fri)\n                                        \n                                            Feb 8 (Sat)\n                                            3 p.m. MT"
+        },
+        {
+            "duTeam": "WSWIM",
+            "opponent": "Summit League Championships",
+            "date": "Feb 19 (Wed)\n                                        \n                                            Feb 22 (Sat)\n                                            TBA\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WSWIM",
+            "opponent": "NCAA Zone E Diving",
+            "date": "Mar 10 (Mon)\n                                        \n                                            Mar 12 (Wed)\n                                            TBA"
+        },
+        {
+            "duTeam": "WSWIM",
+            "opponent": "NIC Championships",
+            "date": "Mar 12 (Wed)\n                                        \n                                            Mar 15 (Sat)\n                                            TBA"
+        },
+        {
+            "duTeam": "WSWIM",
+            "opponent": "NCAA Championships",
+            "date": "Mar 19 (Wed)\n                                        \n                                            Mar 22 (Sat)\n                                            TBA"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "ITA All-American Championships",
+            "date": "Sep 25 (Wed)\n                                        \n                                            Sep 29 (Sun)\n                                            TBA"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "Bedford Cup in the Mountains",
+            "date": "Sep 27 (Fri)\n                                        \n                                            Sep 29 (Sun)\n                                            TBA"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "ITA Mountain Regional Championships",
+            "date": "Oct 17 (Thu)\n                                        \n                                            Oct 22 (Tue)\n                                            TBA"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "Colorado Cup",
+            "date": "Nov 1 (Fri)\n                                        \n                                            Nov 3 (Sun)\n                                            TBA"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "LMU Invite",
+            "date": "Nov 8 (Fri)\n                                        \n                                            Nov 10 (Sun)\n                                            TBA"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "NCAA Division I Singles & Doubles Championships",
+            "date": "Nov 19 (Tue)\n                                        \n                                            Nov 24 (Sun)\n                                            TBA\n                                        \n                                            ESPN+"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "UC Davis",
+            "date": "Jan 17 (Fri)\n                                        \n                                            12 p.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "Air Force",
+            "date": "Jan 18 (Sat)\n                                        \n                                            5 p.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "Montana State",
+            "date": "Jan 19 (Sun)\n                                        \n                                            10:30 a.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "RV\n                                            \n                                                Princeton",
+            "date": "Jan 25 (Sat)\n                                        \n                                            11 a.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "Louisville",
+            "date": "Jan 26 (Sun)\n                                        \n                                            7 a.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "Cal Poly",
+            "date": "Jan 31 (Fri)\n                                        \n                                            5 p.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "Northern Arizona",
+            "date": "Feb 2 (Sun)\n                                        \n                                            10:30 a.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "Oregon",
+            "date": "Feb 7 (Fri)\n                                        \n                                            6 p.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "UTSA",
+            "date": "Feb 8 (Sat)\n                                        \n                                            1 p.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "Boise State",
+            "date": "Feb 15 (Sat)\n                                        \n                                            10 a.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "Wichita State",
+            "date": "Feb 16 (Sun)\n                                        \n                                            10 a.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "#65\n                                            \n                                                Utah State",
+            "date": "Feb 21 (Fri)\n                                        \n                                            5 p.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "Jacksonville State",
+            "date": "Feb 23 (Sun)\n                                        \n                                            10:30 a.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "BYU",
+            "date": "Feb 28 (Fri)\n                                        \n                                            5 p.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "#56\n                                            \n                                                Utah",
+            "date": "Mar 2 (Sun)\n                                        \n                                            12 p.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "Idaho State",
+            "date": "Mar 14 (Fri)\n                                        \n                                            5 p.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "Illinois State",
+            "date": "Mar 28 (Fri)\n                                        \n                                            12 p.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "Oral Roberts",
+            "date": "Mar 30 (Sun)\n                                        \n                                            9:30 a.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "Omaha",
+            "date": "Apr 4 (Fri)\n                                        \n                                            12 p.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "New Mexico",
+            "date": "Apr 6 (Sun)\n                                        \n                                            11 a.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "Drake",
+            "date": "Apr 11 (Fri)\n                                        \n                                            12 p.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "North Dakota",
+            "date": "Apr 13 (Sun)\n                                        \n                                            9:15 a.m. MT"
+        },
+        {
+            "duTeam": "MTEN",
+            "opponent": "Summit League Championship",
+            "date": "Apr 18 (Fri)\n                                        \n                                            Apr 19 (Sat)\n                                            TBA"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "Bedford Cup in the Mountains",
+            "date": "Sep 13 (Fri)\n                                        \n                                            Sep 15 (Sun)"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "ITA All-American Championships",
+            "date": "Sep 21 (Sat)\n                                        \n                                            Sep 29 (Sun)"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "Husky Invitational",
+            "date": "Oct 4 (Fri)\n                                        \n                                            Oct 6 (Sun)"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "ITA Mountain Regional Championships",
+            "date": "Oct 17 (Thu)\n                                        \n                                            Oct 22 (Tue)"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "ITA Conference Masters Championships",
+            "date": "Nov 7 (Thu)\n                                        \n                                            Nov 10 (Sun)"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "Colorado Cup",
+            "date": "Nov 8 (Fri)\n                                        \n                                            Nov 10 (Sun)"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "NCAA Division I Singles & Doubles Championships",
+            "date": "Nov 19 (Tue)\n                                        \n                                            Nov 24 (Sun)\n                                            \n                                        \n                                            ESPN+"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "Colorado",
+            "date": "Jan 19 (Sun)\n                                        \n                                            2 p.m. MT"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "TCU",
+            "date": "Jan 24 (Fri)\n                                        \n                                            12 p.m. MT"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "South Florida",
+            "date": "Jan 25 (Sat)\n                                        \n                                            10 a.m. MT"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "Nebraska",
+            "date": "Feb 1 (Sat)\n                                        \n                                            9 a.m. MT"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "#25\n                                            \n                                                Baylor",
+            "date": "Feb 2 (Sun)\n                                        \n                                            1 p.m. MT"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "San Diego",
+            "date": "Feb 8 (Sat)\n                                        \n                                            11 a.m. MT"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "San Diego State",
+            "date": "Feb 9 (Sun)\n                                        \n                                            11 a.m. MT"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "BYU",
+            "date": "Feb 15 (Sat)\n                                        \n                                            1:30 p.m. MT"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "Colorado State",
+            "date": "Feb 16 (Sun)\n                                        \n                                            10 a.m. MT"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "Montana State",
+            "date": "Feb 21 (Fri)\n                                        \n                                            12 p.m. MT"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "Kansas City",
+            "date": "Mar 1 (Sat)\n                                        \n                                            1:30 p.m. MT"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "Omaha",
+            "date": "Mar 2 (Sun)\n                                        \n                                            10 a.m. MT"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "St. Thomas",
+            "date": "Mar 8 (Sat)\n                                        \n                                            10 a.m. MT"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "UTSA",
+            "date": "Mar 16 (Sun)\n                                        \n                                            10 a.m. MT"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "Columbia",
+            "date": "Mar 26 (Wed)\n                                        \n                                            11 a.m. MT"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "Dartmouth",
+            "date": "Mar 28 (Fri)\n                                        \n                                            11 a.m. MT"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "Harvard",
+            "date": "Mar 29 (Sat)\n                                        \n                                            11 a.m. MT"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "Oral Roberts",
+            "date": "Apr 5 (Sat)\n                                        \n                                            1 p.m. MT"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "South Dakota",
+            "date": "Apr 11 (Fri)\n                                        \n                                            11 a.m. MT"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "North Dakota",
+            "date": "Apr 12 (Sat)\n                                        \n                                            12:30 p.m. MT"
+        },
+        {
+            "duTeam": "WTEN",
+            "opponent": "Summit League Championships",
+            "date": "Apr 18 (Fri)\n                                        \n                                            Apr 19 (Sat)"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "Utah Tech",
+            "date": "Aug 30 (Fri)\n                                        \n                                            10:00 a.m. MT"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "Weber State",
+            "date": "Aug 30 (Fri)\n                                        \n                                            7:30 p.m. MT\n                                        \n                                            ESPN+"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "Utah Tech",
+            "date": "Aug 31 (Sat)\n                                        \n                                            12:30 p.m. MT"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "Montana State",
+            "date": "Sep 5 (Thu)\n                                        \n                                            2:30 p.m. MT"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "The Citadel",
+            "date": "Sep 6 (Fri)\n                                        \n                                            3:00 p.m. MT"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "Air Force",
+            "date": "Sep 10 (Tue)\n                                        \n                                            6:00 p.m. MT\n                                        \n                                            Mountain West Network"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "Air Force",
+            "date": "Sep 12 (Thu)\n                                        \n                                            6:00 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "Northern Colorado",
+            "date": "Sep 14 (Sat)\n                                        \n                                            3:00 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "#23\n                                            \n                                                TCU",
+            "date": "Sep 20 (Fri)\n                                        \n                                            5:30 p.m. MT\n                                        \n                                            ESPN+"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "UT Arlington",
+            "date": "Sep 21 (Sat)\n                                        \n                                            12:00 p.m. MT"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "South Dakota",
+            "date": "Sep 26 (Thu)\n                                        \n                                            6:00 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "South Dakota State",
+            "date": "Sep 28 (Sat)\n                                        \n                                            1:00 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "North Dakota State",
+            "date": "Oct 3 (Thu)\n                                        \n                                            6:00 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "North Dakota",
+            "date": "Oct 5 (Sat)\n                                        \n                                            11:00 a.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "St. Thomas",
+            "date": "Oct 12 (Sat)\n                                        \n                                            1:00 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "Omaha",
+            "date": "Oct 17 (Thu)\n                                        \n                                            6:00 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "Kansas City",
+            "date": "Oct 19 (Sat)\n                                        \n                                            12:00 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "Oral Roberts",
+            "date": "Oct 22 (Tue)\n                                        \n                                            6:00 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "South Dakota",
+            "date": "Oct 24 (Thu)\n                                        \n                                            6:00 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "South Dakota State",
+            "date": "Oct 26 (Sat)\n                                        \n                                            12:00 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "St. Thomas",
+            "date": "Oct 31 (Thu)\n                                        \n                                            6:00 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "North Dakota State",
+            "date": "Nov 2 (Sat)\n                                        \n                                            1:00 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "Kansas City",
+            "date": "Nov 7 (Thu)\n                                        \n                                            6:00 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "North Dakota",
+            "date": "Nov 9 (Sat)\n                                        \n                                            11:00 a.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "Omaha",
+            "date": "Nov 14 (Thu)\n                                        \n                                            6:00 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "Oral Roberts",
+            "date": "Nov 19 (Tue)\n                                        \n                                            6:00 p.m. MT\n                                        \n                                            Summit League Network"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "#4\n                                            \n                                                North Dakota State",
+            "date": "Nov 24 (Sun)\n                                        \n                                            2:00 p.m. MT"
+        },
+        {
+            "duTeam": "WVBALL",
+            "opponent": "#1\n                                            \n                                                South Dakota State",
+            "date": "Nov 25 (Mon)\n                                        \n                                            3:00 p.m. MT"
+        }
+    ]
+}
